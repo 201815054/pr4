@@ -1,0 +1,2 @@
+batchsize=12
+optimizer=adam
