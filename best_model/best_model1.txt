@@ -1,2 +1,2 @@
-batchsize=12
+batchsize=64
 optimizer=adam
